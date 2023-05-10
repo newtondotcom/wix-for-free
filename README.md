@@ -28,16 +28,7 @@ For example, you could get :
 - a [web hosting service](https://www.tkqlhce.com/click-100796952-12454678) with 50GB SSD, 20 MySQL DB, 1 domain and 1000 Email Addresses for 2.99€/month 💶
 - a [storage VPS](https://www.anrdoezrs.net/click-100796952-15239531) with 2 vCores, 4GB RAM, 400GB SSD, unlimited bandwitch incoming and 32 TB outcoming for 5.99€/month 💷
 
-STORAGE VPS S
-€5.99 / month
-2 vCPU Cores
-4 GB RAM
-400 GB SSD
-200 Mbit/s Port
-32 TB Traffic*
-Unlimited Incoming
-
-I personnally think that they are the cheapest and the best web hoster in Europe 🇪🇺
+> I personnally think that they are the cheapest and the best web hoster in the world 🗺️
 
 Don't hesistate to take a look at their [website](https://www.anrdoezrs.net/click-100796952-12454703) 🌐
 
