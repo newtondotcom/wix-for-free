@@ -8,7 +8,7 @@ You just need to open both `.html`files and replace the `WIX-WEBSITE`by your wix
 
 - A computer obviously
 - A domain name of your choice
-- A web hosting service (could be included to your domain name suscription)
+- A web hosting service (could be included to your domain name suscription, look under in the **Contabo** section)
 
 
 ## DISCLAIMER:
